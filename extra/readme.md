@@ -1,0 +1,1 @@
+测试 package.json 中 files 不指定 extra 则 发布的 npm 包中没有该目录

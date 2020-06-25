@@ -1,13 +1,11 @@
 {
   "name": "demo-gulp-pages",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "main": "index.js",
   "author": "chenxin <lightnoway@qq.com>",
   "license": "MIT",
-  "bin": {
-    "gulp-module": "cli.js"
-  },
-  "devDependencies": {
+  "bin": "cli.js",
+  "dependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
     "browser-sync": "^2.26.7",
